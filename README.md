@@ -1,3 +1,4 @@
+pip install ruff
 # Support Triage OpenEnv
 
 A customer-support triage reinforcement-learning environment following the [OpenEnv](https://huggingface.co/openenv) specification.
